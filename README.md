@@ -2,7 +2,7 @@
 This is a repository for the codes that I have used to numerically model, most often, physics situations.
 
 ## bifurcationlogistic.py
-<img src="https://github.com/stangeqwq/NumericalModelling/blob/main/images/bifurcationlogistic.png" alt="drawing" width="200"/>
+<img src="https://github.com/stangeqwq/NumericalModelling/blob/main/images/bifurcationlogistic.png" alt="drawing" width="1000"/>
 
 This is a program that uses `matplotlib` to plot different equations such as `differential equations` for different types of oscillators and the `logistic equation`. In addition, the program handles some basic `chaos theory` in the form of `bifurcation` of the logistic equation and the chaotic driven damped pendulum.
 The code has some initial constants given which print out standard graphs of the differential equations. These constants can be edited from the program to suit the physical models that one might need in a class.
