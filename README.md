@@ -2,7 +2,7 @@
 This is a repository for the codes that I have used to numerically model, most often, physics situations.
 
 ## bifurcationlogistic.py
-<img src="https://github.com/stangeqwq/NumericalModelling/blob/main/images/bifurcationlogistic.png" alt="drawing" width="1000"/>
+<img src="https://github.com/stangeqwq/NumericalModelling/blob/main/images/bifurcationlogistic.png" alt="drawing" width="700"/>
 
 This is a program that uses `matplotlib` to plot different equations such as `differential equations` for different types of oscillators and the `logistic equation`. In addition, the program handles some basic `chaos theory` in the form of `bifurcation` of the logistic equation and the chaotic driven damped pendulum.
 The code has some initial constants given which print out standard graphs of the differential equations. These constants can be edited from the program to suit the physical models that one might need in a class.
@@ -26,8 +26,9 @@ Enter option:
 
 My project submission for the course `FY1003` Electricity and Magnetism at NTNU Spring 2024 where we had to plot the potential of a parallel plate capacitor using laplace equation $\nabla^2 V = 0$ given some boundary conditions.
 
-![pot](https://github.com/stangeqwq/NumericalModelling/blob/main/images/Potential.png)
-
-![quiv](https://github.com/stangeqwq/NumericalModelling/blob/main/images/quiverplotE.png)
+<p float="left">
+  <img src="https://github.com/stangeqwq/NumericalModelling/blob/main/images/Potential.png" alt="drawing" width="700"/>
+ <img src="https://github.com/stangeqwq/NumericalModelling/blob/main/images/quiverplotE.png" alt="drawing" width="700"/>
+</p>
 
 
