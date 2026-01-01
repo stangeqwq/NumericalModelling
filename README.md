@@ -1,5 +1,4 @@
 # Numerical Modelling
-This is a repository for the codes that I have used to numerically model physics situations.
 
 ## bifurcationlogistic.py (images)
 Some of the images I got from solving the easier problems in `classical mechanics` by Taylor chapter 12 `Nonlinear Mechanics and Chaos`
